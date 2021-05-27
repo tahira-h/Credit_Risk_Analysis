@@ -11,14 +11,7 @@ OVERVIEW
 
 The Purpose
 
-	The purpose of this analysis is to use the credit card
-dataset from a peer-to-peer lending services company called
-LendingClub. The dataset from this company will allow analysts
-to use algorithms to oversample the data, use a combinational
-appraach, and compare 2 machine learning models. Using the 
-final results of the dataset, analysts will evaluate the performance
-of the models and recommend whether or not the models
-should be used to predict credit risk for the LendingClub. 
+	The purpose of this analysis is to use the credit card dataset from a peer-to-peer lending services company called LendingClub. The dataset from this company will allow analysts to use algorithms to oversample the data, use a combinational approach, and compare 2 machine learning models. Using the final results of the dataset, analysts will evaluate the performance of the models and recommend whether or not the models should be used to predict credit risk for the LendingClub. 
 
 
 
