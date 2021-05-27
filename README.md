@@ -24,12 +24,14 @@ six machine learning models (15 pt)
 
 RESULTS
 
-The Balanced Accuracy Score
-	* 
-The Prescision
-	*
-Recall Scores
-	*
+- The Balanced Accuracy Score
+* 
+
+- The Prescision
+*
+
+- Recall Scores
+*
 
 3. Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. 
 If you do not recommend any of the models, justify your reasoning.
