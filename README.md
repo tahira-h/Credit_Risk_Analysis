@@ -12,49 +12,49 @@ Oversampling
 
 * For the Native Random Oversampling data, results shows that the balanced accuracy test is 64.94%(0.6494575410534504), the precision is 1%(1.00), and the recall is 73%( 0.73).
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing Native_Random_Oversampling.
+![Native_Random_Oversampling](/resources/Native_Random_Oversampling.png)
 Close the file.
 		
 SMOTE Oversampling
 
 *  For SMOTE Oversampling data, results shows that the balanced accuracy test is 64.94%(0.6494575410534504), the precision is 1%(1.00), and the recall is 73%( 0.73).
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing SMOTE_Oversampling.
+![SMOTE_Oversampling](/resources/SMOTE_Oversampling.png)
 Close the file.
 
 Undersampling
 
 *  For Undersampling data, results shows that the balanced accuracy test is 64%(0.6494575410534504), the precision is 1%(1.00), and the recall is 69%( 0.69).
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing Undersampling.
+![Undersampling](/resources/Undersampling.png)
 Close the file.
 
 Combination
 
-*  For the Combination of Oversampling  and Undersampling data (Combination(Over and Under) Sampling), results shows that
+*  For the Combination of Oversampling and Undersampling data (Combination(Over and Under) Sampling), results shows that
 the balanced accuracy test is 54.42%(0.5442369453268994), the precision is 1%(1.00), and the recall is 73%( 0.73).
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing Combination_of_Oversampling_and_Undersampling.
+![Combination_of_Oversampling_and_Undersampling](/resources/Combination_of_Oversampling_and_Undersampling.png)
 Close the file.
 
 Balanced Random Forest Classifier
 
 * For Balanced Random Forest Classifier data, results shows that the balanced accuracy test is 76.17%(0.7617095603945788), the precision is 1%(1.00), and the recall is 64%( 0.64).
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing Balanced_Random_Forest_Classifier.
+![Balanced_Random_Forest_Classifier](/resources/Balanced_Random_Forest_Classifier.png)
 Close the file.
 
 Easy Ensemble
 
 * For Easy Ensemble AdaBoost Classifier data, results shows that the balanced accuracy test is 91.78%(0.9178773283613644), the precision is 1%(1.00), and the recall is 89%(0.89).
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing Easy_Ensemble_AdaBoost_Classifier.
+![Easy_Ensemble_AdaBoost_Classifier](/resources/Easy_Ensemble_AdaBoost_Classifier.png)
 Close the file.
 
 SUMMARY
