@@ -61,7 +61,7 @@ SUMMARY
 
 Results
 
-The Oversampled, Undersampled, and Combination of (Over and Under) Sampled data predicted which loans are at higher risk for LendingClub. The accuracy rate of the data provided was lower than the data provided for Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier. 
+The Oversampled, Undersampled, and Combination of (Over and Under) Sampled data predicted which loans are at higher risk for LendingClub. The accuracy rate of the data provided was lower than the data provided for Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier. In addition, the accuracy rate of the data provided from Easy Ensemble AdaBoost Classifier was higher than Balanced Random Forest Classifier. As aforementioned, Easy Ensemble AdaBoost Classifier data results shows that the balanced accuracy test is 91.78%(0.9178773283613644), the precision is 1%(1.00), and the recall is 89%(0.89).
 
 Recommendation
 
